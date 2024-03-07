@@ -10,5 +10,6 @@ The Ambient Temperature Data Collection API is a simple tool designed to gather 
 - **Temperature Averages**: Calculates and provides the average temperature of individual rooms, allowing for detailed environmental control.
 - **Time and Date Logging**: Records the time and date for each data entry, facilitating historical data analysis and trend observation.
 - **Healthcare and Hospital Use**: Specifically designed with healthcare and hospital environments in mind, ensuring compliance with regulatory standards for patient care environments.
-- **Future GoLang Rebuild**: Plans for a future rebuild in GoLang to enhance API performance, with a focus on more efficient data processing and integration capabilities.
 - **Automatic Temperature Adjustment**: A forthcoming feature that will enable the API to communicate with a control system to automatically adjust the internal temperature based on external conditions, promoting energy efficiency and consistent environmental conditions.
+- **Future GoLang Rebuild**: Plans for a future rebuild in GoLang to enhance API performance, with a focus on more efficient data processing and integration capabilities.
+
